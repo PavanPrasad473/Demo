@@ -1,1 +1,2 @@
-This is main application.
+This is main application. Modified with bugs fixes
+mInor and mjaor fixes are done.
